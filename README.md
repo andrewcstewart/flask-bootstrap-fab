@@ -11,5 +11,6 @@ Deploy to Vagrant
     $ fab vagrant create:myapp
 
 Deploy to target host
+---------------------
     $ fab user@host:port setup
     $ fab user@host:port create:myapp
